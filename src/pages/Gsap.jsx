@@ -3,8 +3,10 @@ import Main from '../components/section/Main'
 
 const Gasp = () => {
   return (
-    <Main>
-      Gasp
+    <Main 
+      title = "GSAP 사이트"
+      description="GSAP 사이트 튜토리얼 강의입니다.">
+      Gsap
     </Main>
   )
 }
